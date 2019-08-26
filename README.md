@@ -1,4 +1,4 @@
-# Sign-in-up-Form
+# Sign-in/up Form
 A Desktop size Double Slider Sign in/up Form
 
 # Tech
